@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, AI and ML
 - 🌱 I’m currently learning Python, AI and ML
 - 💞️ I’m looking to collaborate on building applications
-- 📫 How to reach me - linkedin.com/in/jerin-paul-2986ab160
+- 📫 How to reach me - https://www.linkedin.com/in/jerin-paul-selvan-2986ab160/
 
 <!---
 JerinPaulS/JerinPaulS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
