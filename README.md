@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JerinPaulS
+- I am a Software Development Engineer. I develop micro-services in Java Springboot
 - 👀 I’m interested in Python, AI and ML
 - 🌱 I’m currently learning Python, AI and ML
 - 💞️ I’m looking to collaborate on building applications
